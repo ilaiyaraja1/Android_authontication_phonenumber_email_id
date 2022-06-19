@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845053270362",
+    "project_id": "kanimoyi",
+    "storage_bucket": "kanimoyi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845053270362:android:58f8f137a6b91cb6b83b63",
+        "android_client_info": {
+          "package_name": "com.example.ilaiyaraja.kanimoyi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845053270362-dira5jsikkhegq9etv7v0sd5vevgivdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANm_Mfj_K9-0GHfnkO0JWZxPq151gld8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845053270362-dira5jsikkhegq9etv7v0sd5vevgivdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
